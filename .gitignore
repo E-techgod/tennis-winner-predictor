@@ -1,0 +1,4 @@
+.Rhistory
+.RData
+data/*.csv
+models/*.rds
